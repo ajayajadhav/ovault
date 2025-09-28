@@ -4,5 +4,7 @@
   "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-outliner",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "dataview"
 ]
